@@ -21,7 +21,7 @@ Certifique-se de ter o Python instalado e execute o arquivo no terminal:
 python assignment_manager.py
 ```
 
-# Python Task Manager 📋
+## 🇺🇸 English
 
 Project developed for university with a focus on Object-Oriented Programming (OOP).
 
