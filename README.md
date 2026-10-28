@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas em Python / Python Task Manager
+# Gerenciador de Tarefas em Python / Python Assignment Manager
 
 [Português](#-português) | [English](#-english)
 
@@ -26,10 +26,10 @@ python assignment_manager.py
 Project developed for university with a focus on Object-Oriented Programming (OOP).
 
 ## 🚀 Features
-- Add new tasks with a priority level from 1 to 4.
-- Complete and reopen tasks.
-- Dynamically edit task descriptions or priorities.
-- View tasks automatically sorted by priority.
+- Add new assignments with a priority level from 1 to 4.
+- Complete and reopen assignments.
+- Dynamically edit assignment descriptions or priorities.
+- View assignments automatically sorted by priority.
 - Robust exception handling.
 
 ## 💻 How to Run
