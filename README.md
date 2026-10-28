@@ -19,3 +19,21 @@ Projeto desenvolvido para a faculdade com foco em Programação Orientada a Obje
 Certifique-se de ter o Python instalado e execute o arquivo no terminal:
 ```bash
 python assignment_manager.py
+```
+
+# Python Task Manager 📋
+
+Project developed for university with a focus on Object-Oriented Programming (OOP).
+
+## 🚀 Features
+- Add new tasks with a priority level from 1 to 4.
+- Complete and reopen tasks.
+- Dynamically edit task descriptions or priorities.
+- View tasks automatically sorted by priority.
+- Robust exception handling.
+
+## 💻 How to Run
+Make sure you have Python installed, then run the script in your terminal:
+```bash
+python assignment_manager_en.py
+```
